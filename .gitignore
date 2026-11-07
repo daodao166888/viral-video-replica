@@ -1,0 +1,6 @@
+out/
+*.wav
+*.mp4
+ssim.txt
+cmp_*.png
+node_modules/
